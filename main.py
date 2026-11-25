@@ -3,10 +3,8 @@
 
 Writes exactly one emoji to /output/entry.txt: the compass.
 
-Why the compass: this agent takes a goal and finds its own way there.
-A compass is the one glyph that says that at a glance — it points at a
-destination and implies the journey to reach it, without a map being handed
-to it. It reads instantly at small size, it is specific to autonomous
+Why the compass: give this agent a destination and it charts its own course there.
+The compass says that in a single glance — direction and journey, no map handed over. It reads instantly at small size, it is specific to autonomous
 wayfinding (not a generic robot or a smiley), and it is not the first
 obvious pick half the field would send.
 """
